@@ -36,10 +36,6 @@ I used to be in corporate development, but moving into freelancing gave me more 
       <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png" width="48" height="48" style="border-radius: 15px;" alt="Solana" />
       <br>Solana
     </td>
-    <td align="center" width="90">
-      <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/6636.png" width="48" height="48" style="border-radius: 15px;" alt="Polkadot" />
-      <br>Polkadot
-    </td>
     <!-- Cardano -->
     <td align="center" width="90">
       <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/2010.png" width="48" height="48" style="border-radius: 15px;" alt="Cardano" />
@@ -63,10 +59,6 @@ I used to be in corporate development, but moving into freelancing gave me more 
     </td>
   </tr>
   <tr>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
-      <br>React
-    </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
       <br>Next.js
@@ -99,10 +91,6 @@ I used to be in corporate development, but moving into freelancing gave me more 
       <img src="https://skillicons.dev/icons?i=threejs" width="45" height="45" alt="Three.js" />
       <br>Three.js
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" alt="AndroidStudio" />
-      <br>Android
-    </td>
   </tr>
   <tr>
     <td align="center" width="90">
@@ -120,10 +108,6 @@ I used to be in corporate development, but moving into freelancing gave me more 
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nestjs" width="45" height="45" alt="Nest.js" />
       <br>Nest.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="55" height="55" />
-      <br>Django
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
