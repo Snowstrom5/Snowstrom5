@@ -52,10 +52,6 @@ I used to be in corporate development, but moving into freelancing gave me more 
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="Typescript" width="45" height="45" />
         <br>Typescript
       </td>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=c#" width="45" height="45" alt="C#" />
-            <br>C#
-        </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=rails" width="45" height="45" alt="rails" />
       <br>Rails
@@ -127,10 +123,6 @@ I used to be in corporate development, but moving into freelancing gave me more 
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
       <br>Laravel
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Flutter" />
-      <br>Flutter
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
