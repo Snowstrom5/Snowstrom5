@@ -19,58 +19,7 @@ I used to be in corporate development, but moving into freelancing gave me more 
 ###
 
 <table align="center">
-<tr>
-    <td align="center" width="90">
-      <img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" height="45" >
-      <br>NFT
-    </td>
-    <td align="center" width="90">
-      <img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" height="45" >
-      <br>DeFi
-    </td>
-    <td align="center" width="90">
-      <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" width="48" height="48" alt="Ethereum" />
-      <br>Ethereum
-    </td>
-    <td align="center" width="90">
-      <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png" width="48" height="48" style="border-radius: 15px;" alt="Solana" />
-      <br>Solana
-    </td>
-    <!-- Cardano -->
-    <td align="center" width="90">
-      <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/2010.png" width="48" height="48" style="border-radius: 15px;" alt="Cardano" />
-      <br>Cardano
-    </td>
-        <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="Javascript" width="45" height="45" />
-        <br>Javascript
-      </td>
-      <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="Typescript" width="45" height="45" />
-        <br>Typescript
-      </td>
-    <td align="center" width="90">
-      <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/3794.png" width="48" height="48" style="border-radius: 15px;" alt="Cosmos" />
-      <br>Cosmos
-    </td>
-  </tr>
   <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
-      <br>Next.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
-      <br>React Native
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nuxtjs" width="45" height="45" alt="Nuxt.js" />
-      <br>Nuxt.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />
-      <br>Node.js
-    </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
       <br>Rust
@@ -84,45 +33,99 @@ I used to be in corporate development, but moving into freelancing gave me more 
       <br>Haskell
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=threejs" width="45" height="45" alt="Three.js" />
-      <br>Three.js
+      <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="Go" />
+      <br>Go
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="45" height="45" alt="Javascript" />
+      <br>Javascript
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="45" height="45" alt="Typescript" />
+      <br>Typescript
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="55" height="55" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
+      <br>Next.js
     </td>
   </tr>
+
   <tr>
     <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="48" height="48" alt="GraphQL" />
-      <br>GraphQL
+      <img src="https://skillicons.dev/icons?i=nuxtjs" width="45" height="45" alt="Nuxt.js" />
+      <br>Nuxt.js
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=go" title="GoLang" alt="GoLang " width="45" height="45"/>
-      <br>GoLang
+      <img src="https://skillicons.dev/icons?i=vuejs" width="45" height="45" alt="Vue.js" />
+      <br>Vue.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />
+      <br>Node.js
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
       <br>Express
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nestjs" width="45" height="45" alt="Nest.js" />
+      <img src="https://skillicons.dev/icons?i=nestjs" width="45" height="45" alt="Express" />
       <br>Nest.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" alt="FastAPI" />
+      <br>FastAPI
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
       <br>Laravel
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
-      <br>Python
+      <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="48" height="48" alt="GraphQL" />
+      <br>GraphQL
     </td>
   </tr>
+
+  <tr>
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=cpp" width="55" height="55" alt="C++" />
+  <br>C++
+</td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=cs" width="45" height="45" alt="C#" />
+      <br>C#
+    </td>
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" alt="MongoDB" />
+  <br>MongoDB
+</td>
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=postgres" width="55" height="55" alt="PostgreSQL" />
+  <br>PostgreSQL
+</td>
+
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=supabase" width="55" height="55" alt="Supabase" />
+  <br>Supabase
+</td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="55" height="55" alt="Java" />
+      <br>Java
+    </td>
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=flutter" width="55" height="55" alt="Flutter" />
+  <br>Flutter
+</td>
+  </tr>
 </table>
+
 <br/>
 <div align=center>
 </div>
