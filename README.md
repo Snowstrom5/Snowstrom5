@@ -88,8 +88,8 @@
 </td>
 
 <td align="center" width="90">
-  <img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" alt="MySQL" />
-  <br>MySQL
+  <img src="https://skillicons.dev/icons?i=supabase" width="55" height="55" alt="Supabase" />
+  <br>Supabase
 </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55" alt="Python" />
@@ -100,8 +100,8 @@
       <br>Java
     </td>
 <td align="center" width="90">
-  <img src="https://skillicons.dev/icons?i=nestjs" width="55" height="55" alt="Nest.js" />
-  <br>Nest.js
+  <img src="https://skillicons.dev/icons?i=flutter" width="55" height="55" alt="Flutter" />
+  <br>Flutter
 </td>
   </tr>
 </table>
