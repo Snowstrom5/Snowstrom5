@@ -1,3 +1,23 @@
+###
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, there!</h1>
+
+<img src="https://readme-typing-svg.herokuapp.com?lines=Blockchain,+AI,+Full+stack+Engineer;Always+providing+new+solution&center=true&width=1000&height=70&font-size=200"></img>
+
+<h2 font-weight="bold">❄ᗩ𝒷𝑜𝓊𝓉 ൱𝑒</h2>
+
+###
+
+<p align="left" font-size="30px"><b><i>
+I’m a Blockchain and Full-Stack AI Engineer with a little over 7 years of experience building stuff that’s secure and scalable. Along the way, I’ve gotten pretty deep into smart contracts and decentralized apps on both EVM and non-EVM chains — things like Ethereum, Polygon, BSC, Solana, Tron, and even Sui.
+I’ve worked on a lot of different projects: DEXs, perpetual trading platforms, cross-chain bridges, staking systems, presale platforms, NFT marketplaces, multi-chain launchpads… you name it. Most of my focus is around DeFi, NFTs, and cross-chain interoperability — and sometimes I bring AI into the mix for automation, optimization, or even a bit of predictive insight.
+I used to be in corporate development, but moving into freelancing gave me more flexibility to work closely with teams and pick up challenging projects that keep me on my toes. I also really enjoy sharing what I know and bouncing around new ideas in the blockchain + AI space.<br>
+</p>
+
+
+<h2 font-weight="bold">🌠Ꚃ𝓀𝒾𝓁𝓁𝓈</h2>
+
+###
+
 <table align="center">
   <tr>
     <td align="center" width="90">
@@ -105,3 +125,15 @@
 </td>
   </tr>
 </table>
+
+<br/>
+<div align=center>
+</div>
+<p><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
+<h2 font-weight="bold">✨ᑕ𝑜𝓃𝓉𝒶𝒸𝓉</h2>
+
+<div align="center">
+  <a href="mailto:snowmandot0520@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/@SWeaver5"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://slack.com/Snowman"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /></a>
+</div>
