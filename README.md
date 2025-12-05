@@ -17,15 +17,15 @@
       <br>Go
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="Javascript" />
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="45" height="45" alt="Javascript" />
       <br>Javascript
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=ts" width="45" height="45" alt="Typescript" />
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="45" height="45" alt="Typescript" />
       <br>Typescript
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=react" width="55" height="55" alt="React" />
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="55" height="55" alt="React" />
       <br>React
     </td>
     <td align="center" width="90">
@@ -40,7 +40,7 @@
       <br>Nuxt.js
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue.js" />
+      <img src="https://skillicons.dev/icons?i=vuejs" width="45" height="45" alt="Vue.js" />
       <br>Vue.js
     </td>
     <td align="center" width="90">
@@ -52,7 +52,7 @@
       <br>Express
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nestjs" width="55" height="55" alt="Nest.js" />
+      <img src="https://techstack-generator.vercel.app/nestjs.svg" width="55" height="55" alt="NestJS" />
       <br>Nest.js
     </td>
     <td align="center" width="90">
@@ -64,43 +64,44 @@
       <br>Laravel
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
+      <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="48" height="48" alt="GraphQL" />
       <br>GraphQL
     </td>
   </tr>
 
   <tr>
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=cpp" width="55" height="55" alt="C++" />
+  <br>C++
+</td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=cpp" width="55" height="55" alt="C++" />
-      <br>C++
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=cs" width="45" height="45" alt="C#" />
+      <img src="https://skillicons.dev/icons?i=cpp" width="45" height="45" alt="C#" />
       <br>C#
     </td>
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" alt="MongoDB" />
+  <br>MongoDB
+</td>
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=postgres" width="55" height="55" alt="PostgreSQL" />
+  <br>PostgreSQL
+</td>
+
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" alt="MySQL" />
+  <br>MySQL
+</td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postgres" width="55" height="55" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" alt="MySQL" />
-      <br>MySQL
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=python" width="55" height="55" alt="Python" />
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55" alt="Python" />
       <br>Python
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=java" width="55" height="55" alt="Java" />
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="55" height="55" alt="Java" />
       <br>Java
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=flutter" width="55" height="55" alt="Flutter" />
-      <br>Flutter
-    </td>
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=nestjs" width="55" height="55" alt="Nest.js" />
+  <br>Nest.js
+</td>
   </tr>
 </table>
