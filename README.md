@@ -52,7 +52,7 @@
       <br>Express
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/nestjs.svg" width="55" height="55" alt="NestJS" />
+      <img src="https://skillicons.dev/icons?i=nestjs" width="45" height="45" alt="Express" />
       <br>Nest.js
     </td>
     <td align="center" width="90">
@@ -75,7 +75,7 @@
   <br>C++
 </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=cpp" width="45" height="45" alt="C#" />
+      <img src="https://skillicons.dev/icons?i=cs" width="45" height="45" alt="C#" />
       <br>C#
     </td>
 <td align="center" width="90">
